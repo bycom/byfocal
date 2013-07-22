@@ -1,4 +1,4 @@
-# ByFocal
+# BY Focal
 Rule of thirds focal point selection for images
 
 ## Supports
