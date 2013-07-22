@@ -1,6 +1,9 @@
 # BY Focal
 Rule of thirds focal point selection for images
 
+## Working demo
+* [http://bycom.github.io/byfocal/](http://bycom.github.io/byfocal/)
+
 ## Supports
 * [jQuery Smart Resize](https://github.com/louisremi/jquery-smartresize)
 
