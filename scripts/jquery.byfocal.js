@@ -1,30 +1,9 @@
 /*
- *  Project: ByFocal
- *  Description: Rule of thirds focal point selection for images
- *  @author: BY
- *  @url: http://github.com/bycom
- *  @version: 1.0
- *
- *  Basic usage:
- *  $('#img').byfocal();
- *  
- *  Advanced usage:
- *  $('#img').byfocal({ focus: "top-left" });
- *  
- *  Focus options (defaults to middle-center):
- *  top-left
- *  top-center
- *  top-right
- *  middle-left
- *  middle-center
- *  middle-right
- *  bottom-left
- *  bottom-center
- *  bottom-right
- *  
- *  Supports jQuery smartresize <https://github.com/louisremi/jquery-smartresize>
+ * BY Focal
+ * @author: BY
+ * @url: http://github.com/bycom
+ * @version: 1.0
  */
-
 ;(function ( $, window, document, undefined ) {
 
     var pluginName = "byfocal",
